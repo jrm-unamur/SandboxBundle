@@ -1,0 +1,4 @@
+jrm-unamur_sandbox:
+    resource: "@JrmUnamurSandboxBundle/Controller/"
+    type:     annotation
+    prefix:   /
