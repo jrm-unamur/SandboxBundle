@@ -14,7 +14,7 @@ use Claroline\KernelBundle\Bundle\ConfigurationBuilder;
 /*
  * Bundle class
  */
-class JrmUnamurSandboxBundle
+class JrmUnamurSandboxBundle extends PluginBundle
 {
     public function getConfiguration($environment)
     {
